@@ -1,0 +1,15 @@
+{
+  "name": "geofencing.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomastk/geofencing"
+  },
+  "author": "tomastk",
+  "license": "ISC",
+  "description": "A JavaScript library for managing geofences, allowing users to monitor entry and exit events based on geographical coordinates using the Geolocation API."
+}
